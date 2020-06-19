@@ -10,4 +10,12 @@ Parece funcionar de otra manera en el escritorio
 sin codigos especificos 
 
 > ALV
+>
+> 
+
+Este es un ejercicio on git 
+
+*kill me* 
+
+No aparece mi modificacion
 
